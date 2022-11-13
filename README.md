@@ -1,4 +1,4 @@
-<p align="left">Unity Developer | 42 Porto Student</p>
+<h1 align="center">Unity Developer | 42 Porto Student<h1>
 
 ###
 
